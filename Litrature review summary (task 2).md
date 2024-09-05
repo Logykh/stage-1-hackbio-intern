@@ -16,8 +16,8 @@ https://github.com/Logykh/hackbio-cancer-internship
 
 Artificial Intelligence (AI) is dramatically transforming the pharmaceutical industry, reshaping drug discovery and development at every stage. AI's ability to analyze vast datasets and detect patterns beyond human capability is speeding up the identification of potential drug candidates, thus reducing the traditionally lengthy and costly drug development process (Paul D. et al., 2020).
 
-![][image1]
-(https://github.com/Logykh/repo/blob/main/images/sample.png?raw=true)
+![Picture1](https://github.com/user-attachments/assets/8ea7418c-df79-4c2d-8f8a-f5d61a082897)
+
 
 AI has significantly enhanced drug discovery by rapidly identifying hit and lead compounds (Mak K. et al., 2019). Advanced algorithms, including machine learning (ML) models such as deep neural networks (DNNs), predict the biological activity of compounds, refining drug screening and improving target validation. This is particularly important in an industry where nine out of ten therapeutic molecules fail in clinical trials, especially during the more expensive later stages (Beneke F. et al., 2019; Kalyane D. et al., 2020).
 
