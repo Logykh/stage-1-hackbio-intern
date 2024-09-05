@@ -12,7 +12,7 @@ GithubRepo:
 
 https://github.com/Logykh/hackbio-cancer-internship
 
-**Introduction**
+# **Introduction**
 
 Artificial Intelligence (AI) is dramatically transforming the pharmaceutical industry, reshaping drug discovery and development at every stage. AI's ability to analyze vast datasets and detect patterns beyond human capability is speeding up the identification of potential drug candidates, thus reducing the traditionally lengthy and costly drug development process (Paul D. et al., 2020).
 
@@ -30,7 +30,7 @@ Despite its benefits, AI adoption in pharmaceuticals faces challenges. Implement
 
 The future of AI in pharmaceuticals looks promising, with advancements expected to lead to more personalized and effective treatments. As AI continues to evolve, its role in drug discovery and development will become increasingly central, transforming disease understanding and treatment (Paul D. et al., 2021).
 
-**References**
+# **References**
 
 Paul D, Sanap G, Shenoy S, Kalyane D, Kalia K, Tekade RK. Artificial intelligence in drug discovery and development. Drug Discov Today. 2021 Jan;26(1):80-93. doi: 10.1016/j.drudis.2020.10.010. Epub 2020 Oct 21\. PMID: 33099022; PMCID: PMC7577280.
 
