@@ -38,4 +38,4 @@ Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021).
  
 
  # **Here is the link to our video:**
-https://www.linkedin.com/posts/tawfek-ahmed-a5aab4239_bioinformatics-drugdevelopment-hackbio-activity-7237782709882806272-c6zK?utm_source=share&utm_medium=member_android
+https://www.linkedin.com/posts/logy-khaled-biotech24_hackbio-ai-pharmaceuticals-activity-7238305393242763265-MuaX?utm_source=share&utm_medium=member_android
