@@ -8,7 +8,7 @@ Authors (@slack): Logy Khaled (@Logy), Tawfek Ahmed (@Tawfekahmed25), Uwaisu Nur
 
  
 
-GithubRepo:
+# **GithubRepo:**
 
 https://github.com/Logykh/hackbio-cancer-internship
 
